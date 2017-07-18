@@ -1,0 +1,15 @@
+{
+    "name": "Seaman",
+    "alias": "seaman",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Seaman\\Providers\\SeamanServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
